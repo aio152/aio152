@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omar
-- 👀 I’m interested in Machine learning and deeplearning
+- 👀 I’m interested in Machine learning and deepLearning
 - 🌱 I’m currently doing my M2 in data-science
 
 <!---
